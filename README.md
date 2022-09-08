@@ -23,7 +23,7 @@ Link to the latest available [public build](https://www.unknowncheats.me/forum/a
 
 Happy cheating :D
 
-![image 1](https://www.unknowncheats.me/forum/attachments/among-us/19006d1610695626-amodus-multihack-internal-screenshot-796-png)
+![image 1](https://postimg.cc/N9kFDY7R)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
