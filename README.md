@@ -3,6 +3,7 @@
 Old among us internal I wrote back in 2021 when I had nothing better to do than inject c# into my bloodstream.
 This repo is more like a covid lockdown digital souvenir than something i will constantly update for people to compile and use.
 
+This project uses confuserEx for code obfuscation and Costura.Fody for merging all c# assemblies into one file.
 ## warning
   - all pointers are outdated
   - 2021 me did not write light speed efficient code
