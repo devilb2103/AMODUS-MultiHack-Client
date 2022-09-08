@@ -6,9 +6,10 @@ This repo is more like a covid lockdown digital souvenir than something i will c
 
 This project uses confuserEx for code obfuscation and Costura.Fody for merging all c# assemblies into one file.
 
-This project also uses 2 other files to function as expected, from:
+This project is also dependant 2 other files to function as expected, from:
   - https://github.com/devilb2103/AMODUS_INJECTOR
   - https://github.com/devilb2103/AMODUS_internal_dll
+make sure to whitelist the folder path or all the files used to prevent your antivirus from deleting project dependencies
 
 ## warning
   - all pointers are outdated
