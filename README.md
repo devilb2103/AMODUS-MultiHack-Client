@@ -22,3 +22,9 @@ If at all you want to try it out and assuming this still works provided you've u
 Link to the latest available [public build](https://www.unknowncheats.me/forum/among-us/431341-amodus-multihack-internal.html)
 
 Happy cheating :D
+
+![image 1](https://www.unknowncheats.me/forum/attachments/among-us/19006d1610695626-amodus-multihack-internal-screenshot-796-png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
