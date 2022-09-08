@@ -19,6 +19,6 @@ make sure to whitelist the folder path or all the files used to prevent your ant
 
 If at all you want to try it out and assuming this still works provided you've updated all the pointers correctly, this program uses a custom injector that you can find in my public repos or just click on [this](https://github.com/devilb2103/AMODUS_INJECTOR)
 
-Link to the last [public build](https://www.unknowncheats.me/forum/among-us/431341-amodus-multihack-internal.html)
+Link to the latest available [public build](https://www.unknowncheats.me/forum/among-us/431341-amodus-multihack-internal.html)
 
 Happy cheating :D
