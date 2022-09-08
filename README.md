@@ -1,7 +1,7 @@
 # AMODUS-MultiHack-Client
 
-Old among us internal I wrote back in 2021 when I had nothing better to do than inject c# into my bloodstream. 
-This repo is more like a COVID Lockdown digital souvenir than something i will constantly update for people to compile and use.
+Old among us internal I wrote back in 2021 when I had nothing better to do than inject c# into my bloodstream.
+This repo is more like a covid lockdown digital souvenir than something i will constantly update for people to compile and use.
 
 This project uses confuserEx for code obfuscation and Costura.Fody for merging all c# assemblies into one file.
 
@@ -9,7 +9,7 @@ This project is also dependent 2 other files to function as expected, from:
   - https://github.com/devilb2103/AMODUS_INJECTOR
   - https://github.com/devilb2103/AMODUS_internal_dll
 
-make sure to whitelist the folder path or all the files used to prevent your antivirus from deleting project dependencies.
+make sure to whitelist the folder path or all the files used to prevent your antivirus from deleting project dependencies
 
 ## warning
   - all pointers are outdated
