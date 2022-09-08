@@ -23,7 +23,7 @@ Link to the latest available [public build](https://www.unknowncheats.me/forum/a
 
 Happy cheating :D
 
-![image 1](https://postimg.cc/N9kFDY7R)
+![image 1](https://i.postimg.cc/Ssw9yxn1/image-2022-09-08-122736390.png)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
