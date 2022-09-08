@@ -6,7 +6,7 @@ This repo is more like a covid lockdown souvenir than something i will constantl
 ## warning
   - all pointers are outdated
   - 2021 me did not write light speed efficient code
-  - UI libraries are not updated\
+  - UI libraries are not updated
 
 If at all you want to try it out and assuming this still works provided you've updated all the pointers, this program uses a custom injector that you can find in my public repos
 
