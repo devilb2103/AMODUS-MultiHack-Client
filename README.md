@@ -3,7 +3,7 @@
 An old Among-Us internal I wrote back in 2021 when I had nothing better to do than inject c# into my bloodstream.
 This repo is more like a covid lockdown digital souvenir than something that i will constantly update for people to compile and use.
 
-This WPF project uses confuserEx for code obfuscation and Costura.Fody for merging all c# assemblies into one file.
+This WPF project uses confuserEx for code obfuscation, Costura.Fody for merging all c# assemblies into one file, and Memory.dll for writing bytes to memory.
 
 This project is also dependent 2 other (compiled) files to function as expected, from:
 - https://github.com/devilb2103/AMODUS_INJECTOR
