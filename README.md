@@ -12,12 +12,12 @@ This project is also dependent 2 other (compiled) files to function as expected,
 make sure to whitelist the folder path or all the files used to prevent your antivirus from deleting project dependencies
 
 ## Features
-### player
-  - Change player speed
-  - Change player name (synced across all clients)
-  - Override emergency count
-  - Override emergency cooldown
-  - Satellite view (zoom out)
+  ### Player
+    - Change player speed
+    - Change player name (synced across all clients)
+    - Override emergency count
+    - Override emergency cooldown
+    - Satellite view (zoom out)
 
 ## Warning
   - all pointers are outdated
