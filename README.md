@@ -12,12 +12,24 @@ This project is also dependent 2 other (compiled) files to function as expected,
 make sure to whitelist the folder path or all the files used to prevent your antivirus from deleting project dependencies
 
 ## Features
-  ### Player
+  ### General
     - Change player speed
     - Change player name (synced across all clients)
     - Override emergency count
     - Override emergency cooldown
     - Satellite view (zoom out)
+  
+  ### Player
+    - Force impostor (make self impostor)
+    - Reveal impostor (red name highlight)
+    - Force crewmate (make self crewmate)
+    - Invisibility (move around after entering vents)
+    - Override kill cooldown
+    - Override kill distance (kill players from far and through walls)
+    - Kill player (kill self)
+    - Revive player (Revive self)
+    - Override crew vision (removes vignette as a crew member)
+    - Override impostor vision (removes vignette as an impostor)
 
 ## Warning
   - all pointers are outdated
