@@ -30,6 +30,16 @@ make sure to whitelist the folder path or all the files used to prevent your ant
     - Revive player (Revive self)
     - Override crew vision (removes vignette as a crew member)
     - Override impostor vision (removes vignette as an impostor)
+  
+  ### Appearance hacks
+    - Rainbow hack toggle (cycles player between all colors) (synced across all clients)
+    - Change lobby color (HOST ONLY) (Changes colors of all lobby players to the selected color from the color palette)
+  
+  ### Map
+    - No clip (move through walls)
+    - No shadow / fog (removes raycasted shadows from walls)
+    uwuwuwu
+    - animat
 
 ## Warning
   - all pointers are outdated
