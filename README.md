@@ -11,7 +11,15 @@ This project is also dependent 2 other (compiled) files to function as expected,
 
 make sure to whitelist the folder path or all the files used to prevent your antivirus from deleting project dependencies
 
-## warning
+## Features
+### player
+  - Change player speed
+  - Change player name (synced across all clients)
+  - Override emergency count
+  - Override emergency cooldown
+  - Satellite view (zoom out)
+
+## Warning
   - all pointers are outdated
   - external libraries used are most probably outdated so manual updation is required before you build it into an exe
   - 2021 me did not write light speed efficient code
