@@ -32,15 +32,15 @@ make sure to whitelist the folder path or all the files used to prevent your ant
     - Override impostor vision (removes vignette as an impostor)
   
   ### Appearance hacks
-    - Rainbow hack toggle (cycles player between all colors) (synced across all clients)
-    - Change lobby color (HOST ONLY) (Changes colors of all lobby players to the selected color from the color palette)
+    - Rainbow hack toggle (cycles player between all colors) (synced across all clients) (Internal Feature)
+    - Change lobby color (HOST ONLY) (Changes colors of all lobby players to the selected color from the color palette) (Internal Feature)
   
   ### Map
     - No clip (move through walls)
     - No shadow / fog (removes raycasted shadows from walls)
-    - Medbay Scan (Plays the medbay scan animation, works even as impostor) (synced across all clients)
-    - Empty Garbage (Plays the garbage disposal animation, works even as impostor) (synced across all clients)
-    - Weapons (Plays the Weapons minigame machine gun animation, works even as impostor) (synced across all clients)
+    - Medbay Scan (Plays the medbay scan animation, works even as impostor) (synced across all clients) (Internal Feature)
+    - Empty Garbage (Plays the garbage disposal animation, works even as impostor) (synced across all clients) (Internal Feature)
+    - Weapons (Plays the Weapons minigame machine gun animation, works even as impostor) (synced across all clients) (Internal Feature)
    
    ### Stats
     - View current players in the lobby (updates automatically)
